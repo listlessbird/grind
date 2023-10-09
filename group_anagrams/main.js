@@ -22,3 +22,7 @@ console.log(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 // console.log(groupAnagrams(["a"]))
 // console.log(groupAnagrams(["", ""]))
 // console.log(groupAnagrams(["", "b"]))
+
+/* 
+Two strings are anagrams of each other if we sort them and get same string for both
+*/
