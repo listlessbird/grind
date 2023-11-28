@@ -4,8 +4,6 @@
  * @return {number}
  */
 function longestOnes(nums, k) {
-  let longest = 0
-
   let left = 0
   let right = 0
 
